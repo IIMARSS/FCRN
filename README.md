@@ -62,6 +62,6 @@ If you find our model is useful for your research, please cite our paper! We are
 }
 ```
 ## Questions
-If you have any questions, [please let me know](imjbzhou@my.swjtu.edu.cn)!❤️❤️<br>
+If you have any questions, [please let me know](imjbzhou@my.swjtu.edu.cn)!<br>
 ## Thanks
-Our model is based on [DeepHyperX](https://github.com/eecn/Hyperspectral-Classification). Thanks for the wonderful work.
+Our model is based on [DeepHyperX](https://github.com/eecn/Hyperspectral-Classification). Thanks for the wonderful work.🌹🌹
