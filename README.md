@@ -24,7 +24,7 @@ Following the requirements and installing the packages.
 pip install -r requirements.txt
 ```
 ### *Data preparation*
-Downloading the insulator contamination HSI datasets from [Google Drive](https://drive.google.com/file/d/1u48ZmYHVyNuiqHAcVywEm-Bh1HghumuL/view?usp=drive_link) or [Baidu Drive](https://pan.baidu.com/s/1sWUwkPWzrYLBcNUqadY09Q?pwd=2333) and putting them under the [Datasets] folder. Of course, you can use the public HSI datasets or your own datasets as well. It will have the following structure:
+Download the insulator contamination HSI datasets from [Google Drive](https://drive.google.com/file/d/1u48ZmYHVyNuiqHAcVywEm-Bh1HghumuL/view?usp=drive_link) or [Baidu Drive](https://pan.baidu.com/s/1sWUwkPWzrYLBcNUqadY09Q?pwd=2333) and put them under the [Datasets] folder. Of course, you can use the public HSI datasets or your own datasets as well. It will have the following structure:
 ```
 ${DATASET_ROOT}   # Dataset root directory
 ├── Datasets
