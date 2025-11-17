@@ -45,7 +45,7 @@ ${DATASET_ROOT}   # Dataset root directory
 │   │    
 
 ```
-### Running the code
+### *Running the code*
 ```
 python main.py --model kd --dataset xianchang1
 ```
@@ -61,3 +61,7 @@ If you find our model is useful for your research, please cite our paper! We are
   publisher={Elsevier}
 }
 ```
+## Questions
+If you have any questions, [please let me know](imjbzhou@my.swjtu.edu.cn)!❤️❤️<br>
+## Thanks
+Our model is based on [DeepHyperX](https://github.com/eecn/Hyperspectral-Classification). Thanks for the wonderful work.
