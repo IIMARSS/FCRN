@@ -1,0 +1,44 @@
+# Deep Learning Frameworks
+torch>=1.8.0
+torchvision>=0.9.0
+
+# Scientific Computing
+numpy>=1.19.0
+scipy>=1.5.0
+
+# Machine Learning
+scikit-learn>=0.24.0
+scikit-image>=0.18.0
+
+# Data Processing
+h5py>=3.0.0
+imageio>=2.9.0
+
+# Hyperspectral Image Processing
+spectral>=0.22.0
+
+# Visualization
+matplotlib>=3.3.0
+seaborn>=0.11.0
+visdom>=0.1.8
+
+# Progress Bar
+tqdm>=4.60.0
+
+# Model Summary and Analysis
+torchsummary>=1.5.1
+thop>=0.0.31
+hiddenlayer>=0.3.0
+
+# Tensor Operations
+einops>=0.3.0
+
+# Computer Vision
+opencv-python>=4.5.0
+
+# Utilities
+joblib>=1.0.0
+
+# Deep Learning Components
+timm>=0.4.0
+
