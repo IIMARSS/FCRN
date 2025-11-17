@@ -10,6 +10,7 @@
 
 ## Overview
 **FCRN** is a novel knowledge distillation based hyperspectral outdoor insulator contamination level recognition network. It effectively integrates state-of-the-art knowledge distillation methods to fulfill the growing demand for lightweight yet powerful insulator contamination level recognition models.
+![Structure](https://github.com/IIMARSS/FCRN/blob/main/Overall%20structure.png?raw=true)
 
 ## How to start
 ### *Installation*
